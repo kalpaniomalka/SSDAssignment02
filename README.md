@@ -3,6 +3,6 @@
 # Clone the repository
 
 # To build
-create a folder named 'images' inside the project folder
-npm install
-npm start
+1. create a folder named 'images' inside the project folder
+2. npm install
+3. npm start
